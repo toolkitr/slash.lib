@@ -1,2 +1,2 @@
-def testing(rettr: str = None) -> "testing":
-  print(rettr)
+def testing(test: str = None) -> "testing":
+  print(test)
